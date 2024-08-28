@@ -12,4 +12,5 @@ The Currency Converter app is a simple yet powerful tool designed to help users 
 - **View Result**: The converted amount is immediately displayed at the top of the screen, replacing the placeholder value.
 This app is ideal for travelers, businesses, and anyone needing quick currency conversions between USD and KES. Its simplicity and efficiency make it a must-have tool for managing finances on the go.
 
-![image](https://github.com/martinsigei/Currency_Converter-App./blob/main/preview.png)
+<img src="https://github.com/martinsigei/Currency_Converter-App./blob/main/preview.png" alt="Currency Converter App Preview" width="300"/>
+
